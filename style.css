@@ -5,9 +5,10 @@
 
 body {
     font-family: 'Dancing Script', cursive;
-    font-optical-sizing: 70px;
-    font-weight: 700;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
     font-style: normal;
+    font-syze:40px;
 }
 
 
