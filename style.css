@@ -81,3 +81,12 @@ align-items: center;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
+
+.rodape{
+    background-color: rgb(34, 31, 49);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
