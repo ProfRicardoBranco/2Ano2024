@@ -84,9 +84,9 @@ align-items: center;
 
 .rodape{
     background-color: rgb(34, 31, 49);
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
+
     }
+.rodape-img{
+    height: 60px;
+    padding: 12px;
+}
