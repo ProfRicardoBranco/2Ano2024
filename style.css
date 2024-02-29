@@ -64,6 +64,7 @@ align-items: center;
 .estudante-icone{
     width: 24px;
     padding: 4px 8px;
+    justify-content: space-around;
 }
 
 .estudante-div{
