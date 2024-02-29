@@ -8,7 +8,7 @@ body {
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-    font-syze:170px;
+    
 }
 
 
@@ -45,6 +45,7 @@ align-items: center;
     justify-content: center;
     align-items: center;
     padding: 24px 24px;
+    font-syze:170px;
 }
 
 
