@@ -13,7 +13,11 @@ body {
 }
 a:link {text-decoration: none;}
 
-a:hover {text-decoration: solid; color:orangered}
+a:hover {
+    text-decoration: solid;
+    color:orangered;
+    font-size: 150%;
+    }
 
 .cabecalho{
 background-color: rgb(34, 31, 49);
