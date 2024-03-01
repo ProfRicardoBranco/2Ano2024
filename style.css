@@ -13,7 +13,7 @@ body {
 }
 a:link {text-decoration: none;}
 
-a:hover {text-decoration: underline;}
+a:hover {text-decoration: underline; color:yellow}
 
 .cabecalho{
 background-color: rgb(34, 31, 49);
