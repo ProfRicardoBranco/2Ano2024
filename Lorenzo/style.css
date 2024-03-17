@@ -16,7 +16,7 @@
 }
 
 .topo-elenco-lista {
-    display: grid;
+    display: inline-block;
     margin: 16px 0;
 }
 
