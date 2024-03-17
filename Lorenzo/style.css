@@ -22,7 +22,7 @@
 }
 
 .rolex-image {
- width: 2%;
+ width: 25%;
 
 }
 
@@ -40,14 +40,14 @@
 }
 .relojoaria-texto-um{
     justify-content: center;
-    padding: 0 124px ;
+    padding: 0 0px ;
 }
 .relojoaria-texto-dois{
     justify-content: center;
-    padding: 0 124px ;
+    padding: 0 0px ;
 }
 
 .logotipo-image {
     background-size: cover;
-    width: 2%;
+    width: 25%;
 }
