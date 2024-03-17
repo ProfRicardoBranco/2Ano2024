@@ -1,15 +1,12 @@
-* { 
+*{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 .topo {
     background-color: #B1A4B7;
     color: #603846;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
 }
 
 .topo-tituloprincipal {
@@ -17,12 +14,12 @@
 }
 
 .topo-elenco-lista {
-    display: inline-block;
+    display: grid;
     margin: 16px 0;
 }
 
 .rolex-image {
- width: 13%;
+ width: 25%;
 
 }
 
@@ -32,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 24px;
+    padding: 24px 0;
 }
 
 .relojoaria-div-conteudo {
@@ -40,14 +37,13 @@
 }
 .relojoaria-texto-um{
     justify-content: center;
-    padding: 0 0px ;
+    padding: 0 124px ;
 }
 .relojoaria-texto-dois{
     justify-content: center;
-    padding: 0 0px ;
+    padding: 0 124px ;
 }
 
 .logotipo-image {
     background-size: cover;
-    width: 13%;
 }
