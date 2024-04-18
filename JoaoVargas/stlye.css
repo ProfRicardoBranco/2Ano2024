@@ -22,7 +22,7 @@
     font-size: 24px;
     }
 
-    .estádio-imagem{
+    .coxa-imagem{
         width: 35%;
     }
     .coxa{
@@ -33,4 +33,15 @@
         align-items: center;
         padding: 24px 24px;
         font-size:150%; 
+    }
+
+    .coxa-titulo{
+        padding: 24px 0;
+        text-align: center;    
+    }
+
+    .coxa-div-conteudo{
+        width: 45%;
+    
+      
     }
