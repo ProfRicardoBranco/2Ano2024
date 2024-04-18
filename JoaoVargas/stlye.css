@@ -3,7 +3,7 @@
     padding: 0%;
 }
 
-.coxa{
+.cabecalho{
     background-color:#76fa4e;
     color: rgb(0, 0, 0);
     display: flex;
@@ -12,11 +12,11 @@
 
 }
 
-.coxa-imagem {
+.cabecalho-imagem {
     width:10%;
 }
 
-    .coxa-lista-item{
+    .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
