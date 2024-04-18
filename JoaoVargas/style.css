@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.coxa{
+    background-color:#76fa4e;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.coxa-imagem {
+    width:10%;
+}
+
+    .coxa-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    }
+    .estádio-imagem{
+        width: 35%;
+    }
+    .coxa{
+        background-image:linear-gradient(#000000,#76fa4e)
+    }
